@@ -14,4 +14,4 @@ Official documentation for Accio - Alibaba's B2B AI Search Engine
 ## **About Accio**  
 Launched at **Web Summit 2024** as Alibaba's first B2B AI search engine, Accio simplifies cross-border sourcing with AI-driven recommendations.  
 
-*This repository archives Accio's technical documentation.*  
+*For immediate access, use the official website above.*
