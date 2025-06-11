@@ -3,7 +3,7 @@ Official documentation for Accio - Alibaba's B2B AI Search Engine
 # Accio - AI-Powered B2B Search Engine  
 
 **🌐 Official Website**: [https://www.accio.com](https://www.accio.com)  
-**🏢 Parent Company**: Alibaba International Digital Commerce  
+**🏢 Parent Company**: Alibaba Group 
 
 ## **Key Features**  
 - **Conversational AI Search**: Natural-language dialog for procurement queries.  
